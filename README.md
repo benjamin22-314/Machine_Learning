@@ -5,13 +5,13 @@ A Coursera course on Machine Learning by Andrew Ng offered by Stanford Universit
 Course
 
 * WEEK 1
-+ Introduction
-+ Linear Regression with One Variable
-+ Linear Algebra Review
+ + Introduction
+ + Linear Regression with One Variable
+ + Linear Algebra Review
 
 * WEEK 2
-+ Linear Regression with Multiple Variables
-+ Octave Tutorial
+    + Linear Regression with Multiple Variables
+    + Octave Tutorial
 
 * WEEK 3
 + Logistic Regression
